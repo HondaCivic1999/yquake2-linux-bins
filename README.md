@@ -10,5 +10,6 @@ Linux Tarballs for Yamagi Quake II.
     rogue/pak0.pak: 5e2ecbe9287152a1e6e0d77b3f47dcb2
     xatrix/pak0.pak: f5e7b04f7d6b9530c59c5e1daa873b51
 
-quake2-ctf
 yquake2
+
+quake2-ctf
