@@ -1,0 +1,61 @@
+Quake II Release Notes
+
+This file contains notes on last minute information pertinent to Quake II.
+
+Quake II Version 3.12 - January 26, 1998
+
+
+Note on the 'Crosshair':
+-  The crosshair is an approximation and thus may not always be accurate.  
+However, it is consistent, so you should be able, with time, to learn to 
+use this tool, just as you would learn to use any other tool.
+
+Using 'Lookspring' and Keyboard Looking:
+-  If you use keys to '+lookup' and/or '+lookdown', lookspring does not 
+work with these functions.  If you want to center your view, use the 
+'+centerview' command.  Lookspring does work when Mouselooking.
+
+CD Audio:
+-  You cannot enable CD Music once the game has been started with CD Music 
+disabled.  The player must enable CD music, then restart the game.
+
+Video Issues:
+-  If you are experiencing a video problem, you will most likely be able to 
+solve the problem by downloading the newest drivers from your card or chip 
+manufacturers' website.  If this does not work, you should attempt using 
+the video drivers that are installed with DirectX 5 included on the CD.  
+Please see the DirectX section of this document for frequently asked 
+questions and installation instructions.
+
+-  Rendition GL Support:  For Rendition support you should select "Default 
+OpenGL" in the Video menu.
+
+-  Riva128:   Riva support is now available using their Win95 OpenGL 
+drivers available directly from http://www.nvidia.com
+
+-  VooDoo Rush:  Currently the Voodoo Rush chipset only supports OpenGL in 
+Windows 95.  Check your card/chipset manufacturer's website for updated 
+drivers.
+
+-  Diamond Stealth 64 DRAM:  If you are currently experiencing problems 
+with the Diamond Stealth 64 DRAM video card, you should attempt using the 
+video drivers that are installed with DirectX 5 that is included on the CD.  
+We have found that this will solve your video problems.  Please see the 
+DirectX section of this document for frequently asked questions and 
+installation instructions.
+
+Sound Issues:
+- MWave:  We have found that if you are using an MWave sound card, and are 
+using the low quality game sounds in deathmatch, the right and left audio 
+channels are reversed.  This problem is solved by using the high quality 
+game sounds.
+
+- Ensoniq:  If you are running an Ensoniq Sound Scape or AudioPCI card, 
+pull down the console by pressing the tilde key ( ~ ) or choose the "Go To 
+Console" selection from the "Options" menu, and type 's_primary 0' and 
+press ENTER.  This setting will be saved when you properly exit the game.
+
+- Joysticks:  To enable a joystick you must type in_joystick 1 from the 
+console.  To access the console, either press the tilde ( ~ ) key or choose 
+the "Go To Console" selection from the "Options" menu.
+
