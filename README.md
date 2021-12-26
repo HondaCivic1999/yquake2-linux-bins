@@ -3,6 +3,7 @@ Linux Tarballs for Yamagi Quake II.
 
 # Info
 
+MD5 Checksums:
     baseq2/pak0.pak: 1ec55a724dc3109fd50dde71ab581d70
     baseq2/pak1.pak: 42663ea709b7cd3eb9b634b36cfecb1a
     baseq2/pak2.pak: c8217cc5557b672a87fc210c2347d98d
