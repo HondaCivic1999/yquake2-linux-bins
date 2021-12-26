@@ -1,7 +1,7 @@
 # yquake2-linux-bins
 Linux Tarballs for Yamagi Quake II.
 
-#Info
+# Info
 
     baseq2/pak0.pak: 1ec55a724dc3109fd50dde71ab581d70
     baseq2/pak1.pak: 42663ea709b7cd3eb9b634b36cfecb1a
