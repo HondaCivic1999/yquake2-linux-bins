@@ -16,3 +16,6 @@ yquake2
 
 quake2-ctf
 
+rogue
+
+xatrix
