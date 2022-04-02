@@ -1,5 +1,5 @@
 # yquake2-linux-bins
-Linux Tarballs for Yamagi Quake II.
+Linux builds for Yamagi Quake II, along with music, video, ctf, rogue and xatrix.
 
 # Info
 
@@ -12,10 +12,10 @@ MD5 Checksums:
     rogue/pak0.pak: 5e2ecbe9287152a1e6e0d77b3f47dcb2
     xatrix/pak0.pak: f5e7b04f7d6b9530c59c5e1daa873b51
 
-   baseq2
+   baseq2/
 
-   ctf
+   ctf/
 
-   rogue
+   rogue/
 
-   xatrix
+   xatrix/
