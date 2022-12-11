@@ -4,7 +4,7 @@ Linux builds for Yamagi Quake II, along with music, video, ctf, rogue and xatrix
 Package Info: 
 - Built on Arch Linux rolling.
 - Built with GNU make.
-- Packaged based on q2_hammer_patch.
+- Packaged based on GOG release.
 - music/ and video/ from GOG.
 
 # Info
